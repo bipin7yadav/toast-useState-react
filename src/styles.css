@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+}
+.success {
+  background-color: green;
+  height: 2rem;
+  margin: 5rem 0rem 0rem 10rem;
+  border-radius: 10px;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.warning {
+  background-color: red;
+  height: 2rem;
+  margin: 5rem 0rem 0rem 10rem;
+  border-radius: 10px;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.error {
+  background-color: yellow;
+  height: 2rem;
+  margin: 5rem 0rem 0rem 10rem;
+  border-radius: 10px;
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.trigger {
+  display: flex;
+  justify-content: space-around;
+}
+
+.green {
+  background-color: green;
+  height: 2.5rem;
+  width: 8rem;
+  border-radius: 1rem;
+}
+
+.red {
+  background-color: red;
+  height: 2.5rem;
+  width: 8rem;
+  border-radius: 1rem;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 2.5rem;
+  width: 8rem;
+  border-radius: 1rem;
+}
+
+.hidebtn {
+  background-color: black;
+  color: whitesmoke;
+  border-radius: 7px;
+}
